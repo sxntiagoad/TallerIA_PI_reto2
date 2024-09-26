@@ -1,0 +1,6 @@
+/venv/*
+/api_keys.env
+/api_keys_1.env
+/DjangoProjectBase2/*
+/TutorialGoogle/*
+/movie_pictures/*
